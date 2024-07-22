@@ -1,0 +1,17 @@
+{
+  "name": "dataforge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^4.4.2",
+    "data-forge": "^1.10.2",
+    "data-forge-fs": "^0.0.9"
+  }
+}
